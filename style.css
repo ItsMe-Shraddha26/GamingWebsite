@@ -419,8 +419,10 @@ header{
        left: 5%;
     }
     .hero-info button{
-       size:10px;
+      font-size:10px;
+      padding:8px 16px;
     }
+
     .hero-section h1{
         font-size: 90px;
     }
@@ -472,3 +474,40 @@ header{
         width:400px;
     }
 }
+/*
+@media screen and (max-width:600px){
+    header{
+        padding: 0 10px;
+    }
+
+    .head-left button{
+        display:none;
+    }
+
+    .head-right a{
+        font-size: 12px;
+        padding: 0 5px;
+    }
+
+    .hero-info{
+        left: 5%;
+    }
+
+    .hero-info h1{
+        font-size: 70px;
+    }
+
+    .hero-info button{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+
+    .about-section h1{
+        font-size: 50px;
+    }
+
+    .contact-section h1{
+        font-size: 40px;
+        text-align: center;
+    }
+}*/
