@@ -78,7 +78,7 @@ header{
     left:50px;
 }
 .hero-info h1{
-    font-size :120px;
+    font-size :100px;
     font-weight: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-top: 30px;
@@ -86,7 +86,7 @@ header{
 }
 .hero-info p{
     color:white;
-    max-width :210px;
+    max-width :200px;
 }
 .hero-info button{
     background-color: #edff66;
@@ -103,11 +103,11 @@ header{
     box-shadow: 0 0 15px #edff66;
 }
 .gaming-text{
-    font-size :120px;
+    font-size :90px;
     position: absolute;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin:0;
-    right: 20px;
+    right: 35px;
     bottom: 30px;
 }
 .next-btn{ 
@@ -222,7 +222,8 @@ header{
     margin:0;
     top:10px;
     left:5%;
-    font-size :60px;
+    font-size :35px;
+    margin-top: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
@@ -242,7 +243,7 @@ header{
 }
 .card button{
     position:absolute;
-    padding:10px 25px;
+    padding:10px 15px;
     bottom:5%;
     left:5%;
     border:1px solid grey;
@@ -424,7 +425,7 @@ header{
     }
 
     .hero-section h1{
-        font-size: 90px;
+        font-size: 70px;
     }
     .about-section{
         margin:0;
@@ -459,7 +460,7 @@ header{
         left:-40px;
     }
     .contact-section h1{
-        font-size: 60px;
+        font-size: 50px;
         max-width: 200px;
        
     }
